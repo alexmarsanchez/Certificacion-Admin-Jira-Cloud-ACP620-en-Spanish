@@ -17,12 +17,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsanchez&layout=compact)](https://github.com/alexmarsanchez/github-readme-stats)
 
 ## Contacto
-[![Linkedin Badge](https://www.linkedin.com/in/alexmar-sanchez/)]
-
-[![Linkedin Badge]([https://img.shield.io/badge/-Davit_Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexmar-sanchez/)](https://www.linkedin.com/in/alexmar-sanchez/)
-
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-https://img.shields.io/badge/-Linkedin-blue
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alexmar-sanchez/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 <!--
 **Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
