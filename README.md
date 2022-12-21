@@ -2,7 +2,7 @@
 
 ### 🌱 Siempre estoy en modo aprendíz así que, aquí estoy, para guardar mis códigos que iré aprendiendo y los proyectos en los que iré trabajando. 
 
-
+![](https://www.canva.com/design/DAFNVuog6Z4/e6bkJPm4WKeCnrEBasKL6w/view?utm_content=DAFNVuog6Z4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 <!--
 **alexmarsanchez/AlexmarSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
