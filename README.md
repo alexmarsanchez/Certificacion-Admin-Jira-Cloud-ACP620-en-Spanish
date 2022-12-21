@@ -9,12 +9,13 @@
 [ https://github.com/alexmarsanchez/MiPrimerRepositorio] Este es mi primer Hola Mundo!
 
 ## Mis Estadísticas en GITHUB
-[![AlexmarSanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmarsanchez)](https://github.com/alexmarsanchez/github-readme-stats)
 
 ![AlexmarSanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmarsanchez&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsanchez)](https://github.com/alexmarsanchez/github-readme-stats)
+
 <!--
-**alexmarsanchez/AlexmarSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 Here are some ideas to get you started:
 
