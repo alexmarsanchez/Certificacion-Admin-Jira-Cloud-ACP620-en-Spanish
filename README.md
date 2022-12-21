@@ -1,6 +1,6 @@
 ###👋 Hola a todos, bienvenidos a mi perfil de GITHUB
 
-# 🌱 Siempre estoy en modo aprendíz así que, aquí estoy, para guardar mis códigos que iré aprendiendo y los proyectos en los que iré trabajando. 
+### 🌱 Siempre estoy en modo aprendíz así que, aquí estoy, para guardar mis códigos que iré aprendiendo y los proyectos en los que iré trabajando. 
 
 
 <!--
