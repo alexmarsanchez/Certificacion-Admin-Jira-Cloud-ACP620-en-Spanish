@@ -9,9 +9,6 @@
 ## Mis Repositorios:
 [ https://github.com/alexmarsanchez/MiPrimerRepositorio] Este es mi primer Hola Mundo!
 
-<a href="https://github.com/alexmarsanchez/MiPrimerRepositorio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarsanchez&repo=MiPrimerRepoaitorio" />
-</a>
 
 ## Mis Estadísticas en GITHUB
 
@@ -19,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsanchez&layout=compact)](https://github.com/alexmarsanchez/github-readme-stats)
 
+## Contacto
+[![Linkedin_Badge](https://www.linkedin.com/in/alexmar-sanchez/)
 <!--
 **Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
