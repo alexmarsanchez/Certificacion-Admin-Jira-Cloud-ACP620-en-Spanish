@@ -4,7 +4,9 @@
 ### 🌱 Siempre estoy en modo aprendíz así que, aquí estoy, para guardar mis códigos que iré aprendiendo y los proyectos en los que iré trabajando.
 
 ![1668246114699](https://user-images.githubusercontent.com/121136642/208908928-2ee93713-5db0-4379-9cf3-75f88893a1bc.jpg)
-
+<a href="https://github.com/alexmarsanchez/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarsanchez&repo=github-readme-stats" />
+</a>
 
 ## Mis Repositorios:
 [ https://github.com/alexmarsanchez/MiPrimerRepositorio] Este es mi primer Hola Mundo!
