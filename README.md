@@ -10,7 +10,7 @@
 [ https://github.com/alexmarsanchez/MiPrimerRepositorio] Este es mi primer Hola Mundo!
 
 <a href="https://github.com/alexmarsanchez/MiPrimerRepositorio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarsanchez&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmarsanchez&repo=MiPrimerRepoaitorio" />
 </a>
 
 ## Mis Estadísticas en GITHUB
