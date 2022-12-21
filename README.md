@@ -21,7 +21,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/alexmarsanchez/github-readme-stats)
 &nbsp;
-[![Gmail](https://freepng.es/png-1e3n73) Gmail](mailto:alexmarsanchez11@gmail.com)
+[![](https://freepng.es/png-1e3n73) Gmail](mailto:alexmarsanchez11@gmail.com)
 
 <!--
 **Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
