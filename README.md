@@ -23,7 +23,7 @@
 &nbsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmarsanchez11@gmail.com)
 
-
+[![GitHub2](https://primer.style/octicons/mark-github-16) GitHub2](https://github.com/alexmarsanchez/github-readme-stats)
 
 <!--
 **Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
