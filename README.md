@@ -21,7 +21,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/alexmarsanchez/github-readme-stats)
 &nbsp;
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gmail](mailto:alexmarsanchez11@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmarsanchez11@gmail.com)
 
 
 
