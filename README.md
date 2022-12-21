@@ -17,9 +17,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsanchez&layout=compact)](https://github.com/alexmarsanchez/github-readme-stats)
 
 ## Contacto
-[![Linkedin_Badge](https://www.linkedin.com/in/alexmar-sanchez/)]
+[![Linkedin Badge](https://www.linkedin.com/in/alexmar-sanchez/)]
 
-[![Linkedin_Badge]([https://img.shield.io/badge/-Davit_Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexmar-sanchez/)](https://www.linkedin.com/in/alexmar-sanchez/)
+[![Linkedin Badge]([https://img.shield.io/badge/-Davit_Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexmar-sanchez/)](https://www.linkedin.com/in/alexmar-sanchez/)
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 https://img.shields.io/badge/-Linkedin-blue
