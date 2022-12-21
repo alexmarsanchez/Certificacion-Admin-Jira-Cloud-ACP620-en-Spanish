@@ -12,7 +12,7 @@
 
 ![AlexmarSanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmarsanchez&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsanchez)](https://github.com/alexmarsanchez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarsancheza&layout=compact)](https://github.com/alexmarsanchez/github-readme-stats)
 
 <!--
 **Los nombres de los temas son; dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
