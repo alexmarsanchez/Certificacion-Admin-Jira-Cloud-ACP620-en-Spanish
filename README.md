@@ -51,7 +51,7 @@ Soy **Alexmar**, técnico informática con interés en la **gestión de servicio
 Estoy desarrollando mi perfil profesional hacia la **Administración de Jira Cloud**, combinando documentación técnica, procesos ITSM y automatización de flujos.
 
 📍 Basada en España  próximamente, Irlanda
-📧 [Tu correo o LinkedIn](https://www.linkedin.com/in/alexmar-sanchez)  
+📧 [Clic aquí para ver mi LinkedIn](https://www.linkedin.com/in/alexmar-sanchez)  
 
 ---
 
