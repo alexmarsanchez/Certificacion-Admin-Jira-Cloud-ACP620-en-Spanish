@@ -1,6 +1,3 @@
-## 👋 Hola a todos, bienvenidos a mi perfil de GITHUB
-
-
 ### 📘 Documentación Jira Cloud - ACP-620
 
 Este repositorio reúne mi **documentación técnica, apuntes y prácticas** realizadas durante mi preparación para la certificación **Atlassian Certified Administrator – ACP-620**.  
