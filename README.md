@@ -17,13 +17,24 @@ Crear una base técnica estructurada que me permita:
 ## 🧩 Contenido
 | Tema | Descripción |
 |------|--------------|
-| [Usuarios y grupos](Usuarios_y_Grupos.md) | Gestión de accesos desde Atlassian Admin, roles y permisos base. |
-| [Permisos y roles de proyecto](Permisos_y_Roles.md) | Configuración de esquemas de permisos y seguridad en proyectos. |
-| [Flujos de trabajo](Flujos_de_Trabajo.md) | Diseño, transición y mantenimiento de workflows en Jira Cloud. |
-| [Pantallas, campos y esquemas](Pantallas_y_Campos.md) | Personalización de formularios y estructuras de datos. |
-| [Automatizaciones](Automatizaciones.md) | Creación y mantenimiento de reglas de automatización globales y de proyecto. |
-| [ITSM y gestión de incidencias](ITSM_y_Incidencias.md) | Configuración de proyectos tipo service desk y buenas prácticas. |
-| [Ejemplos de examen](Notas_ACP620.md) | Ejercicios, casos prácticos y reflexiones personales. |
+| [620.1 Creación del proyecto. (10–15% del examen)]([Usuarios_y_Grupos.md](https://alexmarsanchez.github.io/Certificacion-Admin-Jira-Cloud-ACP620-en-Spanish/620.1_950273.html)) | Los administradores de proyectos en Jira Cloud son responsables de:
+Crear proyectos administrados por el equipo (team-managed).
+Ayudar a los usuarios a decidir el tipo de proyecto adecuado.
+Gestionar configuraciones del proyecto.
+Colaborar con los administradores globales de Jira en proyectos administrados por la empresa (company-managed). |
+
+| [620.2 Configuración de tableros (25–35% del examen)]([Permisos_y_Roles.md](https://alexmarsanchez.github.io/Certificacion-Admin-Jira-Cloud-ACP620-en-Spanish/620.2_983041.html)) | Los administradores de proyectos crean y gestionan tableros Scrum y Kanban, ajustando filtros y configuraciones para adaptarlos a los flujos de trabajo de cada equipo. |
+
+| [620.3 Administración de proyectos (25–35% del examen)]([Flujos_de_Trabajo.md](https://alexmarsanchez.github.io/Certificacion-Admin-Jira-Cloud-ACP620-en-Spanish/620.3_1015809.html)) | Los administradores de proyectos gestionan configuraciones como permisos, roles, versiones, componentes y campos.
+Algunos ajustes son globales (solo los maneja el administrador de Jira), pero deben entenderlos para colaborar correctamente. |
+
+| [620.4 Automatización (15–20% del examen)]([Pantallas_y_Campos.md](https://alexmarsanchez.github.io/Certificacion-Admin-Jira-Cloud-ACP620-en-Spanish/620.4_1048578.html)) | Jira permite automatizar tareas mediante varias funciones: cambios masivos, automatizaciones, funciones de flujo de trabajo o apps. |
+
+| [620.5 Informes (15–20% del examen)]([Automatizaciones.md](https://alexmarsanchez.github.io/Certificacion-Admin-Jira-Cloud-ACP620-en-Spanish/620.5_1081345.html)) | Los administradores de proyectos ayudan a los equipos a tomar decisiones basadas en datos mediante:
+JQL avanzado
+paneles y gadgets
+informes ágiles (Scrum y Kanban)
+y reportes analíticos. |
 
 ---
 
