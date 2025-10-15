@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Certificaciones : 620.2.4 Crear filtros, subfiltros y filtros rápidos (Quick filters)</title>
+        <link rel="stylesheet" href="styles/site.css" type="text/css" />
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+
+    <body class="theme-default aui-theme-default">
+        <div id="page">
+            <div id="main" class="aui-page-panel">
+                <div id="main-header">
+                    <div id="breadcrumb-section">
+                        <ol id="breadcrumbs">
+                            <li class="first">
+                                <span><a href="index.html">Certificaciones</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="196709.html">Descripción general</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="65692.html">ACP620 Certificación Jira Cloud</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="131286.html">ACP-620 Temas del Examen V2 | March 2023</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="620.2_983041.html">620.2</a></span>
+                            </li>
+                                                </ol>
+                    </div>
+                    <h1 id="title-heading" class="pagetitle">
+                                                <span id="title-text">
+                            Certificaciones : 620.2.4 Crear filtros, subfiltros y filtros rápidos (Quick filters)
+                        </span>
+                    </h1>
+                </div>
+
+                <div id="content" class="view">
+                    <div class="page-metadata">
+                            
+        
+    
+        
+    
+        
+        
+            Created by <span class='author'> Alexmar Sanchez</span> on oct 15, 2025
+                        </div>
+                    <div id="main-content" class="wiki-content group">
+                    <style type='text/css'>/*<![CDATA[*/
+div.rbtoc1760547455913 {padding: 0px;}
+div.rbtoc1760547455913 ul {list-style: none;margin-left: 0px;}
+div.rbtoc1760547455913 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style><div class='toc-macro rbtoc1760547455913'>
+<ul class='toc-indentation'>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-🚀¿Quésonlosfiltrosdeplaca?'>🚀¿Qué son los filtros de placa?</a></li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-🚀Configurarfiltrosrápidos'>🚀Configurar filtros rápidos</a>
+<ul class='toc-indentation'>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Antesdeempezar'>Antes de empezar</a></li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Acercadelosfiltrosrápidospredeterminados'>Acerca de los filtros rápidos predeterminados</a></li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Administrarfiltrosrápidos'>Administrar filtros rápidos</a>
+<ul class='toc-indentation'>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-EjemplodeJQLparafiltrosrápidos'>Ejemplo de JQL para filtros rápidos</a>
+<ul class='toc-indentation'>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Mostrartodosloselementosdetrabajoasignadosalosmiembrosdelgrupo&quot;correccióndeerrores&quot;'>Mostrar todos los elementos de trabajo asignados a los miembros del grupo &quot;corrección de errores&quot;</a></li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Mostrartodosloselementosdetrabajodeltipo“Error”'>Mostrar todos los elementos de trabajo del tipo “Error”</a></li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Utiliceunfiltrodeelementosdetrabajoensufiltrorápido'>Utilice un filtro de elementos de trabajo en su filtro rápido</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href='#id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Guardarunanuevabúsquedacomofiltro'>Guardar una nueva búsqueda como filtro</a></li>
+</ul>
+</li>
+</ul>
+</div><h1 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-🚀¿Quésonlosfiltrosdeplaca?">🚀¿Qué son los filtros de placa?</h1><p>Para crear un tablero que solo muestre los elementos de trabajo que desea incluir, puede usar filtros basados ​​en una consulta JQL. Por ejemplo, puede crear un tablero que incluya elementos de trabajo de varios espacios , de un solo espacio o de un componente específico de un espacio . <a href="https://confluence.atlassian.com/jirasoftwarecloud/saving-your-search-as-a-filter-764478344.html" class="external-link" rel="nofollow">Obtenga más información sobre los filtros.</a> </p><p>Para configurar un filtro en un tablero, debes:</p><ul><li><p>Un  <strong>administrador de espacio</strong>  para la ubicación del tablero.</p></li><li><p>Un  <strong>administrador del tablero</strong>  para el tablero mismo</p></li></ul><hr/><h1 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-🚀Configurarfiltrosrápidos">🚀Configurar filtros rápidos</h1><div class="confluence-information-macro confluence-information-macro-information"><span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"></span><div class="confluence-information-macro-body"><p><strong>Esta página es para </strong> <strong>espacios administrados por la empresa.</strong></p><p>Para comprobar si tu espacio está <strong>gestionado por un equipo</strong> o <strong>por una empresa</strong> , selecciona <strong>&quot;Más acciones&quot;</strong> (•••) junto al nombre del espacio , ya sea en el encabezado o en la barra lateral. En la parte inferior del menú que se abre, se mostrarán los detalles de tu espacio .</p><p><a href="https://support.atlassian.com/jira-software-cloud/docs/what-are-team-managed-and-company-managed-projects/" class="external-link" rel="nofollow">Más sobre la diferencia entre espacios gestionados por la empresa y espacios gestionados por equipos</a> .</p></div></div><p> </p><p>Los filtros rápidos permiten filtrar aún más la colección de elementos de trabajo que aparecen en un tablero Scrum o Kanban. Úsalos para cambiar entre diferentes tipos de trabajo (por ejemplo, mostrar solo errores) o para mostrar vistas específicas del equipo de un backlog común.</p><h2 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Antesdeempezar">Antes de empezar</h2><p>Para configurar el tablero y cualquiera de sus configuraciones, debes:</p><ul><li><p>Un <strong>administrador </strong>de espacio  para la ubicación del tablero.</p></li><li><p>Un  <strong>administrador del tablero</strong>  para el tablero mismo</p></li></ul><p>Consulte  <a href="https://support.atlassian.com/jira-cloud-administration/docs/permissions-for-company-managed-projects/" class="external-link" rel="nofollow">la descripción general de permisos</a>  para obtener más información sobre cómo configurar sus filtros rápidos.</p><h2 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Acercadelosfiltrosrápidospredeterminados">Acerca de los filtros rápidos predeterminados</h2><p>De forma predeterminada, un tablero contiene dos filtros rápidos, llamados &quot;Solo mis elementos de trabajo&quot; y &quot;Actualizados recientemente&quot;:</p><div class="table-wrap"><table data-table-width="760" data-layout="default" data-local-id="0d99b405-0065-453b-a717-964ea128074e" class="confluenceTable"><colgroup><col style="width: 177.0px;"/><col style="width: 242.0px;"/><col style="width: 261.0px;"/></colgroup><tbody><tr><th data-highlight-colour="#f1f2f4" class="confluenceTh"><p>Filtro rápido predeterminado</p></th><th data-highlight-colour="#f1f2f4" class="confluenceTh"><p>JQL predeterminado</p></th><th data-highlight-colour="#f1f2f4" class="confluenceTh"><p>Notas</p></th></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Solo mis elementos de trabajo</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><div class="code panel pdl" style="border-width: 1px;"><div class="codeContent panelContent pdl">
+<pre class="syntaxhighlighter-pre" data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence">assignee = currentUser()</pre>
+</div></div></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Muestra los elementos de trabajo asignados a la persona que actualmente está viendo este tablero.</p></td></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Actualizado recientemente</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><div class="code panel pdl" style="border-width: 1px;"><div class="codeContent panelContent pdl">
+<pre class="syntaxhighlighter-pre" data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence">updatedDate &gt;= -1d</pre>
+</div></div></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Muestra los elementos de trabajo que se han actualizado en las últimas 24 horas.</p></td></tr></tbody></table></div><h2 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Administrarfiltrosrápidos">Administrar filtros rápidos</h2><p>Puedes crear filtros rápidos adicionales o editar los existentes. Los filtros rápidos adicionales que crees aparecerán en el menú desplegable &quot; <strong>Filtros rápidos&quot;</strong> . Para mostrar los filtros rápidos como botones, activa la opción &quot; <strong>Mostrar filtros rápidos</strong> en el menú desplegable&quot;.</p><ol start="1"><li><p>Vaya a su tablero y luego seleccione  <strong>más </strong> () &gt;  <strong>Configurar el tablero</strong> . <em>(NOTA: Esto requiere permisos de administrador).</em></p></li><li><p>Seleccione la  pestaña <strong>Filtros rápidos</strong>  .</p></li><li><p>Edite los filtros rápidos, como se describe en la siguiente tabla.</p></li></ol><div class="table-wrap"><table data-table-width="760" data-layout="default" data-local-id="583e775a-a4f5-4f0b-b0e7-dbf68403b377" class="confluenceTable"><colgroup><col style="width: 188.0px;"/><col style="width: 492.0px;"/></colgroup><tbody><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Agregar un nuevo filtro rápido</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>En el área azul, escriba el Nombre, JQL y una Descripción (opcional), luego seleccione Agregar.</p></td></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Cambiar el nombre de un filtro rápido</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Haga clic en el área Nombre del filtro rápido, modifique el nombre existente y luego seleccione Actualizar.</p></td></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Cambiar el JQL de un filtro rápido</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Haga clic en el área JQL del filtro rápido, modifique el JQL existente y luego seleccione Actualizar.</p><p>Consulte los ejemplos a continuación para obtener algunas sugerencias. Para obtener información sobre la sintaxis JQL, consulte  <a href="https://support.atlassian.com/jira-software-cloud/docs/what-is-advanced-search-in-jira-cloud/" class="external-link" rel="nofollow">JQL</a> .</p></td></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Eliminar un filtro rápido</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Seleccione el botón Eliminar a la derecha del filtro rápido.</p></td></tr><tr><td data-highlight-colour="#ffffff" class="confluenceTd"><p><strong>Mover un filtro rápido</strong></p></td><td data-highlight-colour="#ffffff" class="confluenceTd"><p>Coloque el cursor sobre el ícono de &quot;cuadrícula&quot; vertical, luego arrastre y suelte el filtro rápido hacia arriba o hacia abajo hasta su nueva posición.</p></td></tr></tbody></table></div><h3 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-EjemplodeJQLparafiltrosrápidos">Ejemplo de JQL para filtros rápidos</h3><h4 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Mostrartodosloselementosdetrabajoasignadosalosmiembrosdelgrupo&quot;correccióndeerrores&quot;">Mostrar todos los elementos de trabajo asignados a los miembros del grupo &quot;corrección de errores&quot;</h4><div class="code panel pdl" style="border-width: 1px;"><div class="codeContent panelContent pdl">
+<pre class="syntaxhighlighter-pre" data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence">assignee in membersOf(&quot;bugfix&quot;)</pre>
+</div></div><h4 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Mostrartodosloselementosdetrabajodeltipo“Error”">Mostrar todos los elementos de trabajo del tipo “Error”</h4><div class="code panel pdl" style="border-width: 1px;"><div class="codeContent panelContent pdl">
+<pre class="syntaxhighlighter-pre" data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence">type = &quot;Bug&quot;</pre>
+</div></div><h4 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Utiliceunfiltrodeelementosdetrabajoensufiltrorápido">Utilice un filtro de elementos de trabajo en su filtro rápido</h4><div class="code panel pdl" style="border-width: 1px;"><div class="codeContent panelContent pdl">
+<pre class="syntaxhighlighter-pre" data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence">savedfilter = &quot;My Filter&quot;</pre>
+</div></div><p>Para obtener más orientación sobre JQL, consulte:</p><ul><li><p><a href="https://support.atlassian.com/jira-software-cloud/docs/jql-functions/" class="external-link" rel="nofollow">Funciones JQL</a></p></li><li><p><a href="https://support.atlassian.com/jira-software-cloud/docs/jql-fields/" class="external-link" rel="nofollow">Campos JQL</a></p></li><li><p><a href="https://support.atlassian.com/jira-software-cloud/docs/jql-keywords/" class="external-link" rel="nofollow">Palabras clave JQL</a></p></li><li><p><a href="https://support.atlassian.com/jira-software-cloud/docs/jql-operators/" class="external-link" rel="nofollow">Operadores JQL</a></p></li></ul><h2 id="id-620.2.4Crearfiltros,subfiltrosyfiltrosrápidos(Quickfilters)-Guardarunanuevabúsquedacomofiltro">Guardar una nueva búsqueda como filtro</h2><p>Para crear un nuevo filtro, consulte <a href="https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/" class="external-link" rel="nofollow">Guardar su búsqueda como filtro</a> .</p>
+                    </div>
+
+                    
+                                                      
+                </div>             </div> 
+            <div id="footer" role="contentinfo">
+                <section class="footer-body">
+                    <p>Document generated by Confluence on oct 15, 2025 18:57</p>
+                    <div id="footer-logo"><a href="http://www.atlassian.com/">Atlassian</a></div>
+                </section>
+            </div>
+        </div>     </body>
+</html>
